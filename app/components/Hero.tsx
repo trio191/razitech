@@ -179,7 +179,7 @@ export default function Hero({ isDark }: { isDark: boolean }) {
               style={{ borderColor: 'rgba(0,212,255,0.4)' }}
             >
               <Image
-                src="https://res.cloudinary.com/dejbrjuuq/image/upload/v1756129271/WhatsApp_Image_2025-08-25_at_3.40.20_AM_qqbjz.jpg"
+                src="https://res.cloudinary.com/dejbrjuuq/image/upload/v1756129271/WhatsApp_Image_2025-08-25_at_3.40.20_AM_qqbj9r.jpg"
                 alt="Razi Ur Rehman"
                 fill
                 className="object-cover"
